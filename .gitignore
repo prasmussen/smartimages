@@ -1,0 +1,10 @@
+bin/
+images/
+request.log
+manifests.json
+
+# vim files
+.*.sw[a-z]
+*.un~
+Session.vim
+.netrwhist

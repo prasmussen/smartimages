@@ -1,0 +1,5 @@
+{
+    "listen": ":8080",
+    "logfile": "request.log",
+    "imagedir": "images"
+}
